@@ -1,4 +1,4 @@
-# base-vue-app
+# base-vue-2-app
 
 ## Project setup
 ```
